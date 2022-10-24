@@ -1,5 +1,3 @@
-<style>body {text-align: justify}</style>
-
 <body style="text-align: justify;">
 <h1>
 Hi there 👋<br>
